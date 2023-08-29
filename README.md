@@ -1,4 +1,20 @@
-### Hi there 👋
+# JOSE CASTILLO
+
+### Data Scientist | Data Analyst
+
+Hello there 👋! Welcome to my GitHub profile. My name is Jose Castillo, and I am an upincoming data scientist with a knack for turning data into actionalble insights and meaningful stories. I thrive on extracting knowledge from raw information and leveraging the power of machine learning to solve real-world problems.
+
+### 🔧 Technologies and Tools
+I'm well-versed in a variety of tools and technologies that enable me to tackle complex data challenges:
+
+Programming: Python
+Machine Learning: Scikit-learn, TensorFlow, Keras
+Data Analysis: Pandas, NumPy, Jupyter
+Data Visualization: Matplotlib, Seaborn
+Database: SQL
+Version Control: Git
+Cloud Platforms: in progress...
+Big Data: in progress...
 
 <!--
 **josecastillofl/josecastillofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
