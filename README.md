@@ -13,8 +13,7 @@ I'm well-versed in a variety of tools and technologies that enable me to tackle 
 - Data Visualization: Matplotlib, Seaborn
 - Database: SQL
 - Version Control: Git
-- Cloud Platforms: In progress...
-- Big Data: In progress...
+- Cloud Platforms: Azure
 
 Feel free to explore my projects and reach out for collaboration or discussions. Let's connect and explore the fascinating world of data together! 🚀
 
