@@ -15,7 +15,7 @@ I'm well-versed in a variety of tools and technologies that enable me to tackle 
 - Version Control: Git
 - Cloud Platforms: Azure
 
-Feel free to explore my projects and reach out for collaboration or discussions. Let's connect and explore the fascinating world of data together! 🚀
+Feel free to explore my projects and reach out for collaboration or discussions. 🚀
 
 <!--
 **josecastillofl/josecastillofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
