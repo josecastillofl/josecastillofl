@@ -1,6 +1,6 @@
 # JOSE CASTILLO
 
-### Data Scientist | Data Analyst | Financial Analyst
+### Data & Financial Analyst
 
 Hello there! 👋 Welcome to my GitHub profile. My name is Jose Castillo, and I am an upcoming data scientist with a knack for turning data into actionable insights and meaningful stories. I thrive on extracting knowledge from raw information and leveraging the power of machine learning to solve real-world problems.
 
